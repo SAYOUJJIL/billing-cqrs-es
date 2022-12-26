@@ -6,6 +6,8 @@ rapport et le code source de l’application répondant aux questions suivantes 
 <img width="483" alt="image" src="https://user-images.githubusercontent.com/85376207/209521410-e60c8981-5c68-4514-ac40-a413e7aff827.png">
 
 ## 2. Établir un diagramme de classe global du projet
+<img width="484" alt="image" src="https://user-images.githubusercontent.com/85376207/209523507-e0f67d6a-9cef-4dcc-8100-87664070f617.png">
+
 ## 3. Déployer le serveur AXON Server ou KAFKA Broker
 ## 4. Développer le micro-service Customer-Service
 ## 5. Développer le micro-service Inventory-Service
